@@ -1,0 +1,20 @@
+
+body {
+    font-family: -apple-system, 'Helvetica Neue', sans-serif;
+}
+
+h1, h3 {
+    display: block;
+    text-align: center
+}
+
+span {
+    color:lightslategray;
+}
+
+.timer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
